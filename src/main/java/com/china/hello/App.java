@@ -8,8 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "a!1111" );
-        System.out.println( "btttt!" );
-        System.out.println( "cttt!" );
+        System.out.println( "a!11114" );
+        System.out.println( "btttt3!" );
+        System.out.println( "cttt!2" );
     }
 }
