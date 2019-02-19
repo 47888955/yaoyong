@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "本地的啊!!" );
         System.out.println( "server!" );
+        System.out.println( "本地的啊!!" );
+        System.out.println( "server!" );
     }
 }
